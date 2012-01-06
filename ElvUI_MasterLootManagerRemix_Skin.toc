@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cff1784d1ElvUI|r Master Loot Manager Remix Skin
+## Notes: Editless Master Loot Manager Remix Skin For ElvUI/Tukui
+## Author: Camealion
+## Version: 1.0
+## Dependencies: MasterLootManagerRemix
+## OptionalDeps: Tukui, ElvUI
+
+ElvUI_MasterLootManagerRemix_Skin.lua
+!Functions.lua
