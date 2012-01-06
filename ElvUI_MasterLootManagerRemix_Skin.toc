@@ -2,7 +2,7 @@
 ## Title: |cff1784d1ElvUI|r Master Loot Manager Remix Skin
 ## Notes: Editless Master Loot Manager Remix Skin For ElvUI/Tukui
 ## Author: Camealion
-## Version: 1.0
+## Version: 0.1a
 ## Dependencies: MasterLootManagerRemix
 ## OptionalDeps: Tukui, ElvUI
 
